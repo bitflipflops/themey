@@ -1,0 +1,28 @@
+:root {
+	--main-bg: #110D09;
+	--main-fg: #FFDEC2;
+	--alt-bg: #292623;
+	--alt-fg: #d6d9dc;
+	--selected-bg: #d0f0c0;
+	--selected-fg: #2f0f3f;
+	--link-fg: #00aaee;
+	--link-hover-fg: #ff5511;
+	--header-bg: #1a140e;
+	--header-fg: #e0c1a5;
+	--footer-bg: #1a140e;
+	--footer-fg: #e0c1a5;
+	--shadow: #32302e;
+	--border: #966fd6;
+
+	--important: #fdfe03;
+	--unimportant: #565452;
+	--fatal: #d21c34;
+	--error: #ff596c;
+	--warning: #997a8d;
+	--info: #00a693;
+
+	--slow: 1s;
+	--quicky: 0.6s;
+	--fast: 0.2s;
+	--border-sty: dashed;
+}

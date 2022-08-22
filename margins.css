@@ -1,0 +1,55 @@
+article {
+	transition: margin var(--quicky);
+}
+
+@media only screen and (max-width: 400px) {
+
+	article {
+		margin: 0px 2%;
+	}
+
+}
+
+@media only screen and (min-width: 401px) and (max-width: 720px) {
+
+	article {
+		margin: 0px 8%;
+	}
+
+}
+@media only screen and (min-width: 721px) and (max-width: 1000px) {
+
+	article {
+		margin: 0px 19%;
+	}
+
+}
+@media only screen and (min-width: 1001px) and (max-width: 1200px) {
+
+	article {
+		margin: 0px 26%;
+	}
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1440px) {
+
+	article {
+		margin: 0px 31%;
+	}
+
+}
+@media only screen and (min-width: 1441px) and (max-width: 1940px){
+
+	article {
+		margin: 0px 36%;
+	}
+
+}
+@media only screen and (min-width: 1941px) {
+
+	article {
+		margin: 0px 40%;
+	}
+
+}
